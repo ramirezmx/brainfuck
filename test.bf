@@ -1,3 +1,3 @@
 ++++++++++[>+++++++++++>++++++++++>+++++++++++>++++++++++>+++++++++++>++++++++++>++++++++++++<<<<<<<-]>++++.>---.>-.>+++++.>++++.>+.>++.
 
-im sorry, i learned brainfuck from wikipedia, thats why.
+im sorry, i learnt brainfuck from wikipedia, thats why.
