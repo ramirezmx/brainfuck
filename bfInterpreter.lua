@@ -1,4 +1,4 @@
--- metatables are cute 😻
+
 braces = setmetatable({},{
     __index = function(self,k)
         if k == 'pop' then
@@ -10,9 +10,6 @@ braces = setmetatable({},{
         end
     end
 })
---[[
-lifelover#0123
-]]
 
 -- put ur bf(brainfuck) code into that test.bf file.
 
@@ -83,5 +80,4 @@ while str_pointer < #input do
 
     Instructions[str]()
 end
--- UwU
 print(out)
