@@ -32,7 +32,7 @@ for i = 0,memory_size-1 do
     stack[i]=0
 end
 
--- instructions, u can add more if u are retarded.
+-- instructions
 Instructions = {
     ['>'] = function()
         pointer = pointer + 1
